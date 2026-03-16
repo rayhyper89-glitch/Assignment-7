@@ -8,6 +8,8 @@ console.log("Hello World!");
 
 
 
+
+
 // 3. Print out the rating for each food with a ranking like:
 // "My #1 favorite food is Ramen" (copy/paste for all items)
 // "My #2 favorite food is Sushi"
